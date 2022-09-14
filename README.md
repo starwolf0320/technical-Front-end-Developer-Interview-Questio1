@@ -159,14 +159,6 @@ Feeling inspired? Check our [Contributing guide](https://github.com/h5bp/Front-e
     <td align="center"><a href="http://patrikwibron.se/"><img src="https://avatars3.githubusercontent.com/u/233347?v=4" width="120px;" alt="Patrik Wibron"/><br /><sub><b>Patrik Wibron</b></sub></a><br /><a href="#translation-wibron" title="Translation">🌍</a></td>
     <td align="center"><a href="http://vdv73.ru"><img src="https://avatars3.githubusercontent.com/u/971061?v=4" width="120px;" alt="Dmitry Vislov"/><br /><sub><b>Dmitry Vislov</b></sub></a><br /><a href="#translation-vdv73rus" title="Translation">🌍</a></td>
   </tr>
-  <tr>
-    <td align="center"><a href="http://krzysztofromanowski.pl"><img src="https://avatars2.githubusercontent.com/u/522810?v=4" width="120px;" alt="Krzysztof Romanowski"/><br /><sub><b>Krzysztof Romanowski</b></sub></a><br /><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions/commits?author=castus" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://www.very-geek.com"><img src="https://avatars3.githubusercontent.com/u/1104018?v=4" width="120px;" alt="Albert Yu"/><br /><sub><b>Albert Yu</b></sub></a><br /><a href="#translation-nightire" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://twitter.com/slaramen"><img src="https://avatars3.githubusercontent.com/u/585824?v=4" width="120px;" alt="Sebastian Lara Menares"/><br /><sub><b>Sebastian Lara Menares</b></sub></a><br /><a href="#translation-slara" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://sunnylost.com/"><img src="https://avatars3.githubusercontent.com/u/693496?v=4" width="120px;" alt="sunnylost"/><br /><sub><b>sunnylost</b></sub></a><br /><a href="#translation-sunnylost" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/miniflycn"><img src="https://avatars3.githubusercontent.com/u/2239584?v=4" width="120px;" alt="Daniel Yang"/><br /><sub><b>Daniel Yang</b></sub></a><br /><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions/commits?author=miniflycn" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://contains.me/"><img src="https://avatars0.githubusercontent.com/u/1562646?v=4" width="120px;" alt="Michael P. Pfeiffer"/><br /><sub><b>Michael P. Pfeiffer</b></sub></a><br /><a href="#translation-frontdevde" title="Translation">🌍</a></td>
-  </tr>
 
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/vvanchuk/"><img src="https://avatars1.githubusercontent.com/u/6904368?v=4" width="120px;" alt="Vasiliy Vanchuk"/><br /><sub><b>Vasiliy Vanchuk</b></sub></a><br /><a href="#ideas-vvscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#review-vvscode" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-vvscode" title="Maintenance">🚧</a></td>
